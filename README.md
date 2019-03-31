@@ -5,3 +5,5 @@
 [933.Number of Recent Calls](./933.NumberofRecentCalls/README.md)
 
 [561.Array Partition Ⅰ](./561.ArrayPartition1/README.md)
+
+[700.Search in a Binary Search Tree](./700.SearchInABinarySearchTree/README.md)
