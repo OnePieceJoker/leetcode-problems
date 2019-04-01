@@ -7,3 +7,5 @@
 [561.Array Partition Ⅰ](./561.ArrayPartition1/README.md)
 
 [700.Search in a Binary Search Tree](./700.SearchInABinarySearchTree/README.md)
+
+[965.Univalued Binary Tree](./965.UnivaluedBinaryTree/README.md)
