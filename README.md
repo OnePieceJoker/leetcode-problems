@@ -9,3 +9,7 @@
 [700.Search in a Binary Search Tree](./700.SearchInABinarySearchTree/README.md)
 
 [965.Univalued Binary Tree](./965.UnivaluedBinaryTree/README.md)
+
+## Arrays
+
+[27.Remove Element](./Array/RemoveElement.md)
