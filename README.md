@@ -10,6 +10,8 @@
 
 [965.Univalued Binary Tree](./965.UnivaluedBinaryTree/README.md)
 
-## Arrays
+## Array
 
 [27.Remove Element](./Array/RemoveElement.md)
+
+[35.Search Insert Position](./Array/SearchInsertPosition.md)
