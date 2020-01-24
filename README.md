@@ -15,3 +15,5 @@
 [27.Remove Element](./Array/RemoveElement.md)
 
 [35.Search Insert Position](./Array/SearchInsertPosition.md)
+
+[914.X of a Kind in a Deck of Cards](./Array/hasGroupsSizeX.md)
