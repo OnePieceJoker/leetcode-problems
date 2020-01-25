@@ -17,3 +17,5 @@
 [35.Search Insert Position](./Array/SearchInsertPosition.md)
 
 [914.X of a Kind in a Deck of Cards](./Array/hasGroupsSizeX.md)
+
+[163.Two Sum 2-Input array is sorted](./Array/TwoSum2.md)
