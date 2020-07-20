@@ -10,7 +10,7 @@
 
 [965.Univalued Binary Tree](./965.UnivaluedBinaryTree/README.md)
 
-## Array
+## Type: Array
 
 [27.Remove Element](./Array/RemoveElement.md)
 
@@ -19,3 +19,9 @@
 [914.X of a Kind in a Deck of Cards](./Array/hasGroupsSizeX.md)
 
 [163.Two Sum 2-Input array is sorted](./Array/TwoSum2.md)
+
+## Top interview question easy
+
+### Arrays
+
+[26.Remove Duplicates from Sorted Array](./top-interview-questions-easy/Array/Remove-Duplicates-from-Sorted-Array.md)
